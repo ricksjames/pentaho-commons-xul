@@ -52,6 +52,11 @@
       <artifactId>gwt-dnd</artifactId>
     </dependency>
     <dependency>
+      <groupId>com.google.code.gwtx</groupId>
+      <artifactId>gwtx</artifactId>
+      <version>${gwtx.version}</version>
+    </dependency>
+    <dependency>
       <groupId>javax.validation</groupId>
       <artifactId>validation-api</artifactId>
     </dependency>
